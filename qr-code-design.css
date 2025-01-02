@@ -1,10 +1,11 @@
 body{
-    background-color: rgba(213, 225, 239, 1);
+    /* background-color: rgba(213, 225, 239, 1); */
     margin: 0;
     padding: 0;
 }
 .attribution{
    display: flex;
+   flex-direction: column;
    justify-content: center;
    align-items: center;
    height: 100vh;
